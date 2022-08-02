@@ -25,15 +25,23 @@ function Content() {
       </div>
       <div
         className="parent"
-        class="pt-20 grid grid-cols-[500px,500px] grid-rows-[500px, 200px] justify-center items-center gap-10"
+        class="pt-20 grid grid-cols-[500px,500px] grid-rows-[200px,500px, 200px] justify-center items-center gap-10"
       >
         <div className="coding station" class="h-[30rem] w-auto bg-slate-300">
           <pre> {title} </pre>
         </div>
-        <button class="col-start-1 border-black border-solid border-2 rounded-md ">
+        <button class="col-start-1 border-black border-solid border-2 rounded-md  ">
           Let's see if you have errors!
         </button>
-        <div className="feedback + error station"></div>
+        <div
+          className="feedback + error station"
+          class="col-start-2 row-span-1 row-start-1 "
+        >
+          <div class="h-[30rem] bg-slate-200 "></div>
+        </div>
+        <p class=" col-start-2 row-start-2 justify-center text-center">
+          This is where your output and errors will come through!
+        </p>
       </div>
     </div>
   );
