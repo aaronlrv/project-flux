@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/project-flux-mock/static/css/main.18c3a9f1.css",
+    "main.js": "/project-flux-mock/static/js/main.ef633863.js",
+    "static/js/787.f055211e.chunk.js": "/project-flux-mock/static/js/787.f055211e.chunk.js",
+    "static/media/logo.svg": "/project-flux-mock/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/project-flux-mock/index.html",
+    "main.18c3a9f1.css.map": "/project-flux-mock/static/css/main.18c3a9f1.css.map",
+    "main.ef633863.js.map": "/project-flux-mock/static/js/main.ef633863.js.map",
+    "787.f055211e.chunk.js.map": "/project-flux-mock/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c3a9f1.css",
+    "static/js/main.ef633863.js"
+  ]
+}
