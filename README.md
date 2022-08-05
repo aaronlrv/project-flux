@@ -1,6 +1,6 @@
 ## How to Use
 
-Use the Github pages environment and view the latest deployment of the project
+Access through this link https://aaronlrv.github.io/project-flux/ or view the latest github pages deployment of the project
 
 ## Tech/ Framework Used
 <p align="left"> 
